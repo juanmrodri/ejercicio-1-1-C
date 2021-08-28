@@ -1,11 +1,11 @@
 /*
- ============================================================================
+ =============================================================================================================
  Name        : ejercicio-1-1.c
  Author      : Juan Manuel
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
+ Version     : 1.0.1
+ Copyright   : no Copyright
+ Description : Programa que pide numeros al usuario hasta que quiera, devuelve promedios positivos y negativos
+ =============================================================================================================
  */
 
 #include <stdio.h>
