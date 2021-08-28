@@ -78,7 +78,7 @@ int main(void) {
 	// promedio negativo
 	promedioNegativos=acumuladorNegativos/cantidadNegativo;
 
-	printf("\n\nEl promedio de los numeros positivos es %2.2f y el promedio de los numeros negativos es %2.2f", promedioPositivos,promedioNegativos);
+	printf("\n\nEl promedio de los numeros positivos es %.2f y el promedio de los numeros negativos es %.2f", promedioPositivos,promedioNegativos);
 
 	return EXIT_SUCCESS;
 }
